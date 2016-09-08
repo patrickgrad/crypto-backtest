@@ -2,7 +2,7 @@ Types of graphs this code can generate:
 
 1. Shaded cumulative volume distribution of single snapshot with total bid and total ask volume annotation
 
-2. Line plot of account values or % return of two different strageties represented by red and blue
+2. Line plot of account values or % return of two different strageties with certain statistics overlaid.
 
 
 Coming soon:
